@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://furnacefilterscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://furnacefilterscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://furnacefilterscanada.ca/collections/five-seasons-furnace-filters-canada.atom"/>
+  <title>Furnace Filters Canada</title>
+  <updated>2014-05-07T17:10:00-04:00</updated>
+  <author>
+    <name>Furnace Filters Canada</name>
+  </author>
+  <entry>
+    <id>https://furnacefilterscanada.ca/products/2320186540090</id>
+    <published>2014-05-07T17:10:00-04:00</published>
+    <updated>2014-05-07T17:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://furnacefilterscanada.ca/products/merv-ii-filter-case-of-3-15-3-8-x-25-1-2-x-5-1-4"/>
+    <title>Merv II Filter  Case of 3 15 3/8&quot; x 25 1/2&quot; x 5 1/4&quot;</title>
+    <s:type>MERV 11</s:type>
+    <s:vendor>Five seasons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0375/2317/products/m1_1056_high_efficiency_merv_11_furnace_air_filters_canada_227834c9-2efe-4310-bc05-46ae36e7f148.jpg?v=1551326389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Five seasons<br>
+        <strong>Type: </strong>MERV 11<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>Genuine OEM Part# M1-1056 16 x 25 x 5 MERV 11 Furnace Filters</strong></h1>
+<h2>
+<span style="color: #ff0000;"><strong>SHIPPING IN CANADA</strong></span> </h2>
+<h1><strong> </strong></h1>
+<h2><strong>*Actual Size 15 3/8" x 25 1/2" x 5 1/4"</strong></h2>
+<p> </p>
+<h2><strong>Fits The Following Air Cleaner Models:</strong></h2>
+<h3>Carrier CMF1625,  EMU1625</h3>
+<h3>Amana AMU1625</h3>
+<h3>Coleman CEMU1625</h3>
+<h3>Electro-Air EAMU1625</h3>
+<h3>Five Seasons FSMU1625</h3>
+<h3>Goodman GMU1625</h3>
+<h3>Totalline P102-MF14A</h3>
+<h3>York YMU1625</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 3/8 x 25 1/2 x 5 1/4</s:tag>
+    <s:tag>air cleaner model</s:tag>
+    <s:tag>air filters</s:tag>
+    <s:tag>allergy</s:tag>
+    <s:tag>AMU1625</s:tag>
+    <s:tag>Bryant</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>CEMU1625</s:tag>
+    <s:tag>CMF1625</s:tag>
+    <s:tag>EAMU1625</s:tag>
+    <s:tag>EMU1625</s:tag>
+    <s:tag>FSMU1625</s:tag>
+    <s:tag>furnace filter</s:tag>
+    <s:tag>GMU1625</s:tag>
+    <s:tag>high efficiency</s:tag>
+    <s:tag>m1-1056</s:tag>
+    <s:tag>media</s:tag>
+    <s:tag>merv 11</s:tag>
+    <s:tag>P102-MF14A</s:tag>
+    <s:tag>pleated</s:tag>
+    <s:tag>YMU1625</s:tag>
+    <s:variant>
+      <id>https://furnacefilterscanada.ca/products/2320186540090</id>
+      <title>Carrier M1-1056 Case of 3</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>SHM1-1056-3</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+</feed>
